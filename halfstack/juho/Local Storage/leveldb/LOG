@@ -1,0 +1,3 @@
+2022/07/06-18:05:17.161 1c00 Reusing MANIFEST /home/juho/Documents/fullstackopen/course-part-02/halfstack/juho/Local Storage/leveldb/MANIFEST-000001
+2022/07/06-18:05:17.161 1c00 Recovering log #3
+2022/07/06-18:05:17.161 1c00 Reusing old log /home/juho/Documents/fullstackopen/course-part-02/halfstack/juho/Local Storage/leveldb/000003.log 
